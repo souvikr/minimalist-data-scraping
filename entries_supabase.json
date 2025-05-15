@@ -1,0 +1,420 @@
+[
+  {
+    "name": "Salicylic Acid + LHA 2% Cleanser",
+    "description": "Targets acne, breakouts, and oiliness. This cleanser gently purifies the skin, removing impurities and preparing it for subsequent treatments.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/SalicylicCleanserNew.jpg?v=1721379190",
+    "product_url": "https://beminimalist.co/collections/all-products/products/salicylic-lha-2-cleanser",
+    "category": "Cleanser",
+    "skin_concerns": [
+      "Acne",
+      "Breakouts",
+      "Oiliness"
+    ],
+    "key_ingredients": [
+      "Salicylic Acid",
+      "LHA"
+    ]
+  },
+  {
+    "name": "SPF 50 Sunscreen",
+    "description": "Targets sun protection, uv exposure, and damage. Provides essential broad-spectrum protection against harmful UV rays.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/SPF50New.jpg?v=1721379190",
+    "product_url": "https://beminimalist.co/collections/all-products/products/multi-vitamin-spf-50",
+    "category": "Sunscreen",
+    "skin_concerns": [
+      "Sun protection",
+      "UV exposure",
+      "damage"
+    ],
+    "key_ingredients": []
+  },
+  {
+    "name": "Salicylic Acid 2% Face Serum",
+    "description": "Targets acne, oily skin, blackheads, and irritation. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/SalicylicAcid2_1200-1-min.png?v=1646458899",
+    "product_url": "https://beminimalist.co/collections/all-products/products/salicylic-acid-2",
+    "category": "Serum",
+    "skin_concerns": [
+      "Acne",
+      "Oily Skin",
+      "Blackheads",
+      "Irritation"
+    ],
+    "key_ingredients": [
+      "Salicylic Acid"
+    ]
+  },
+  {
+    "name": "Vitamin C 10% Face Serum",
+    "description": "Targets dullness, spots, and loss of elasticity. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/VitaminC10_1200-1-min.png?v=1646543848",
+    "product_url": "https://beminimalist.co/collections/all-products/products/vitamin-c-ethyl-ascorbic-acid-10-acetyl-glucosamine-1",
+    "category": "Serum",
+    "skin_concerns": [
+      "Dullness",
+      "Spots",
+      "Loss of Elasticity"
+    ],
+    "key_ingredients": [
+      "Vitamin C"
+    ]
+  },
+  {
+    "name": "Vitamin B5 10% Moisturizer",
+    "description": "Targets damaged barrier, oily, and dehydrated. Formulated to hydrate, nourish, and protect the skin's barrier.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/B5Moisturizer1200-2-min.png?v=1741532482",
+    "product_url": "https://beminimalist.co/collections/all-products/products/vitamin-b5-10-moisturizer",
+    "category": "Moisturizer",
+    "skin_concerns": [
+      "Damaged Barrier",
+      "Oily",
+      "Dehydrated"
+    ],
+    "key_ingredients": [
+      "Vitamin B5 (Panthenol)"
+    ]
+  },
+  {
+    "name": "Niacinamide 10% Face Serum",
+    "description": "Targets acne marks, acne prone, and oily skin. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/Nia10New.png?v=1721398127",
+    "product_url": "https://beminimalist.co/collections/all-products/products/niacinamide-10-with-matmarine",
+    "category": "Serum",
+    "skin_concerns": [
+      "Acne Marks",
+      "Acne Prone",
+      "Oily Skin"
+    ],
+    "key_ingredients": [
+      "Niacinamide"
+    ]
+  },
+  {
+    "name": "Alpha Arbutin 2% Face Serum",
+    "description": "Targets hyperpigmentation, tanning, and sunspot. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/AlphaArNew.png?v=1721397838",
+    "product_url": "https://beminimalist.co/collections/all-products/products/alpha-arbutin-2",
+    "category": "Serum",
+    "skin_concerns": [
+      "Hyperpigmentation",
+      "Tanning",
+      "Sunspot"
+    ],
+    "key_ingredients": [
+      "PHA (Polyhydroxy Acid)",
+      "Alpha Arbutin"
+    ]
+  },
+  {
+    "name": "Niacinamide 5% Face Serum",
+    "description": "Targets acne marks, irritated, and damaged skin. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/Niacinamide5_1200-1-min.png?v=1646458955",
+    "product_url": "https://beminimalist.co/collections/all-products/products/niacinamide-5-hyaluronic-acid-1",
+    "category": "Serum",
+    "skin_concerns": [
+      "Acne Marks",
+      "Irritated",
+      "Damaged Skin"
+    ],
+    "key_ingredients": [
+      "Niacinamide"
+    ]
+  },
+  {
+    "name": "Hair Growth Actives 18% Hair Serum",
+    "description": "Targets capixyl, redensyl, and procapil for hairfall. Designed to address specific hair concerns like growth, damage, or frizz.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/HGANew.jpg?v=1721379190",
+    "product_url": "https://beminimalist.co/collections/all-products/products/hair-growth-actives-18",
+    "category": "Hair Serum",
+    "skin_concerns": [
+      "Capixyl",
+      "Redensyl",
+      "Procapil for Hairfall"
+    ],
+    "key_ingredients": [
+      "Redensyl",
+      "Capixyl",
+      "Procapil"
+    ]
+  },
+  {
+    "name": "Polyhydroxy Acid (PHA) 3% Face Toner",
+    "description": "Targets enlarged pores and dehydrated skin. Helps to balance the skin's pH, refine pores, and enhance absorption of other products.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/PHANew.jpg?v=1721379191",
+    "product_url": "https://beminimalist.co/collections/all-products/products/pha-3-biotic-toner",
+    "category": "Toner",
+    "skin_concerns": [
+      "Enlarged Pores",
+      "Dehydrated Skin"
+    ],
+    "key_ingredients": [
+      "PHA (Polyhydroxy Acid)"
+    ]
+  },
+  {
+    "name": "Marula Oil 5% Face Moisturizer",
+    "description": "Targets dry skin, flakiness, and tightness. Formulated to hydrate, nourish, and protect the skin's barrier.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/Marula_New.png?v=1721398128",
+    "product_url": "https://beminimalist.co/collections/all-products/products/marula-05-moisturizer",
+    "category": "Moisturizer",
+    "skin_concerns": [
+      "Dry Skin",
+      "Flakiness",
+      "Tightness"
+    ],
+    "key_ingredients": [
+      "Marula Oil"
+    ]
+  },
+  {
+    "name": "Vitamin C + E + Ferulic 16% Face Serum",
+    "description": "Targets spots, uneven tone, and dull skin. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/Vit16New.png?v=1721398127",
+    "product_url": "https://beminimalist.co/collections/all-products/products/vitamin-c-e-ferulic-16",
+    "category": "Serum",
+    "skin_concerns": [
+      "Spots",
+      "Uneven Tone",
+      "Dull Skin"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Ferulic Acid"
+    ]
+  },
+  {
+    "name": "Hyaluronic + PGA 2% Face Serum",
+    "description": "Targets dry, dehydrated, and tightened skin. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/HAPGA2_1200-1-min.png?v=1646395962",
+    "product_url": "https://beminimalist.co/collections/all-products/products/2-hyaluronic-acid",
+    "category": "Serum",
+    "skin_concerns": [
+      "Dry",
+      "Dehydrated",
+      "Tightened Skin"
+    ],
+    "key_ingredients": [
+      "PGA (Polyglutamic Acid)"
+    ]
+  },
+  {
+    "name": "Retinol 0.3% Face Serum",
+    "description": "Targets fine lines, wrinkles, and loss of elasticity. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/Reti3New.png?v=1721398129",
+    "product_url": "https://beminimalist.co/collections/all-products/products/retinol-0-3-q10",
+    "category": "Serum",
+    "skin_concerns": [
+      "Fine Lines",
+      "Wrinkles",
+      "Loss of Elasticity"
+    ],
+    "key_ingredients": [
+      "Retinol"
+    ]
+  },
+  {
+    "name": "AHA PHA BHA 32% Face Peel",
+    "description": "Targets hyperpigmentation, dullness, and wrinkles. An exfoliating treatment to remove dead skin cells, revealing brighter and smoother skin.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/AHAPHABHA32_1200-1-min.png?v=1646480856",
+    "product_url": "https://beminimalist.co/collections/all-products/products/aha-25-pha-5-bha-2",
+    "category": "Peel",
+    "skin_concerns": [
+      "Hyperpigmentation",
+      "Dullness",
+      "Wrinkles"
+    ],
+    "key_ingredients": [
+      "AHA",
+      "PHA (Polyhydroxy Acid)",
+      "BHA"
+    ]
+  },
+  {
+    "name": "SPF 60 Sunscreen",
+    "description": "Targets sun protection, uv exposure, and damage. Provides essential broad-spectrum protection against harmful UV rays.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/SPF601200-2-min.png?v=1646571969",
+    "product_url": "https://beminimalist.co/collections/all-products/products/spf-60-silymarin",
+    "category": "Sunscreen",
+    "skin_concerns": [
+      "Sun protection",
+      "UV exposure",
+      "damage"
+    ],
+    "key_ingredients": []
+  },
+  {
+    "name": "Glycolic Acid 8% Exfoliating Liquid",
+    "description": "Targets dull skin, uneven tone, and texture. An exfoliating treatment to remove dead skin cells, revealing brighter and smoother skin.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/GlycolicNew.png?v=1721398128",
+    "product_url": "https://beminimalist.co/collections/all-products/products/glycolic-acid-08-exfoliating-liquid",
+    "category": "Exfoliator",
+    "skin_concerns": [
+      "Dull Skin",
+      "Uneven Tone",
+      "Texture"
+    ],
+    "key_ingredients": [
+      "Glycolic Acid"
+    ]
+  },
+  {
+    "name": "Oat Extract 6% Gentle Cleanser",
+    "description": "Targets dry, dehydrated, and sensitive skin. This cleanser gently purifies the skin, removing impurities and preparing it for subsequent treatments.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/OatCleanser1200-1.png?v=1651078209",
+    "product_url": "https://beminimalist.co/collections/all-products/products/oat-extract-06-gentle-cleanser",
+    "category": "Cleanser",
+    "skin_concerns": [
+      "Dry",
+      "Dehydrated",
+      "Sensitive Skin"
+    ],
+    "key_ingredients": [
+      "Oat Extract"
+    ]
+  },
+  {
+    "name": "Tranexamic 3% Face Serum",
+    "description": "Targets acne scars, melasma, and pie. This potent serum delivers concentrated ingredients to address specific skin issues effectively.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/TranNew.png?v=1721398127",
+    "product_url": "https://beminimalist.co/collections/all-products/products/tranexamic-3-hpa",
+    "category": "Serum",
+    "skin_concerns": [
+      "Acne Scars",
+      "Melasma",
+      "PIE"
+    ],
+    "key_ingredients": []
+  },
+  {
+    "name": "SPF 50+ Sunscreen Stick",
+    "description": "Targets sun protection, uv exposure, and damage. Provides essential broad-spectrum protection against harmful UV rays.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/SunStickNew.png?v=1721632055",
+    "product_url": "https://beminimalist.co/collections/all-products/products/spf-50-sunscreen-stick",
+    "category": "Sunscreen Stick",
+    "skin_concerns": [
+      "Sun protection",
+      "UV exposure",
+      "damage"
+    ],
+    "key_ingredients": []
+  },
+  {
+    "name": "Aquaporin Booster 5% Cleanser",
+    "description": "Targets skin tightness, dry, and dehyrated skin. This cleanser gently purifies the skin, removing impurities and preparing it for subsequent treatments.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/AquaporinNew.png?v=1721398128",
+    "product_url": "https://beminimalist.co/collections/all-products/products/aquaporin-booster-05-cleanser",
+    "category": "Cleanser",
+    "skin_concerns": [
+      "Skin Tightness",
+      "Dry",
+      "Dehyrated Skin"
+    ],
+    "key_ingredients": [
+      "Aquaporin Booster"
+    ]
+  },
+  {
+    "name": "L-Ascorbic Acid 8% Lip Treatment Balm",
+    "description": "Targets lip dehydration and hyperpigmentation. A treatment to nourish, hydrate, and protect the lips.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/L-AscNew.jpg?v=1721379189",
+    "product_url": "https://beminimalist.co/collections/all-products/products/l-ascorbic-acid-08-lip-treatment-balm",
+    "category": "Lip Balm",
+    "skin_concerns": [
+      "Lip Dehydration",
+      "Hyperpigmentation"
+    ],
+    "key_ingredients": [
+      "Vitamin C"
+    ]
+  },
+  {
+    "name": "Alpha Lipoic + Glycolic 7% Cleanser",
+    "description": "Targets dull, rough skin, and uneven tone. This cleanser gently purifies the skin, removing impurities and preparing it for subsequent treatments.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/AlphaLipoicNew.png?v=1746106817",
+    "product_url": "https://beminimalist.co/collections/all-products/products/alpha-lipoic-glycolic-07-cleanser",
+    "category": "Cleanser",
+    "skin_concerns": [
+      "Dull",
+      "Rough Skin",
+      "Uneven Tone"
+    ],
+    "key_ingredients": [
+      "PHA (Polyhydroxy Acid)"
+    ]
+  },
+  {
+    "name": "Niacinamide 5% Body Lotion",
+    "description": "Targets damaged barrier, dry, and flaky skin. An effective Minimalist solution for your skincare or haircare needs.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/Nia5BodyLotion1100-1-min.png?v=1649958609",
+    "product_url": "https://beminimalist.co/collections/all-products/products/niacinamide-05-body-lotion",
+    "category": "Body Lotion",
+    "skin_concerns": [
+      "Damaged Barrier",
+      "Dry",
+      "Flaky Skin"
+    ],
+    "key_ingredients": [
+      "Niacinamide"
+    ]
+  },
+  {
+    "name": "Anti-Acne Skin Care Kit",
+    "description": "Targets acne, oily skin, and blackheads. An effective Minimalist solution for your skincare or haircare needs.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/AntiAcneListing.png?v=1721222828",
+    "product_url": "https://beminimalist.co/collections/all-products/products/anti-acne-kit",
+    "category": "Kit",
+    "skin_concerns": [
+      "Acne",
+      "Oily Skin",
+      "Blackheads"
+    ],
+    "key_ingredients": []
+  },
+  {
+    "name": "AHA BHA 10% Face Exfoliator",
+    "description": "Targets dullness, roughness, and uneven texture. An exfoliating treatment to remove dead skin cells, revealing brighter and smoother skin.",
+    "image_url": "https://beminimalist.co/cdn/shop/products/aha-bha-10-1200--1min-1645781661616.png?v=1647004182",
+    "product_url": "https://beminimalist.co/collections/all-products/products/aha-bha-10",
+    "category": "Exfoliator",
+    "skin_concerns": [
+      "Dullness",
+      "Roughness",
+      "Uneven Texture"
+    ],
+    "key_ingredients": [
+      "AHA",
+      "BHA"
+    ]
+  },
+  {
+    "name": "Vitamin K + Retinal 1% Eye Cream",
+    "description": "Targets dark circles, fine lines, and eye puffiness. Specifically formulated for the delicate eye area to target concerns like dark circles or fine lines.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/KRetinalNew.png?v=1721632054",
+    "product_url": "https://beminimalist.co/collections/all-products/products/vitamin-k-retinal-01-eye-cream",
+    "category": "Eye Cream",
+    "skin_concerns": [
+      "Dark Circles",
+      "Fine lines",
+      "Eye Puffiness"
+    ],
+    "key_ingredients": [
+      "Vitamin K",
+      "Retinal"
+    ]
+  },
+  {
+    "name": "Granactive Retinoid 2% Face Cream",
+    "description": "Targets uneven tone, wrinkles, and loss of elasticity. Formulated to hydrate, nourish, and protect the skin's barrier.",
+    "image_url": "https://beminimalist.co/cdn/shop/files/1_c3454d37-fbd5-4972-8e70-65df1c3ec8de.jpg?v=1740461339",
+    "product_url": "https://beminimalist.co/collections/all-products/products/retinoid-2",
+    "category": "Face Cream",
+    "skin_concerns": [
+      "Uneven tone",
+      "Wrinkles",
+      "Loss of elasticity"
+    ],
+    "key_ingredients": [
+      "Granactive Retinoid"
+    ]
+  }
+]
